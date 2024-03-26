@@ -5,10 +5,15 @@ package dominio;
 		int id;
 		String nombre;
 		int edad;
+
+
+2. Aplicar el concepto de encapsulación dentro de la clase Empleado
+
 */
 public class Empleado {
-	int id;
-	String nombre;
-	int edad;
+	private int id;
+	private String nombre;
+	private int edad;
 }
+
 
