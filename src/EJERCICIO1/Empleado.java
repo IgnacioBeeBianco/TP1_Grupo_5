@@ -1,4 +1,4 @@
-package dominio;
+package EJERCICIO1;
 
 /*
 1. Crear una clase Empleado con las siguientes propiedades:
